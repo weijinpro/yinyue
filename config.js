@@ -25,7 +25,7 @@ var localMusic = [
     lrc: './music/duinishuo.lrc'
   },
   {
-    name: '我们都是好孩子,
+    name: '我们都是好孩子',
     artist: '王筝',
     url: './music/womendoushihaohaizi.mp3',
     cover: './music/womendoushihaohazi.png',
