@@ -4,7 +4,7 @@ var localMusic = [
     name: '换到千般恨',
     artist: '韦伦',
     url: './music/huandaoqianbanhen.mp3',
-    cover: './music/weilun.png',
+    cover: './music/huandaoqianbanhen.png',
     lrc: './music/huandaoqianbanhen.lrc'
   },
   {
